@@ -6,28 +6,28 @@ dashboard. Also, each country's currency was compared to USD from 2020
 to 2023. Here's a brief explanation of economic terms included in the
 dashboard: 
 
--Manufacturing PMI : Purchasing Managers' Index (PMI) for the 
+- Manufacturing PMI : Purchasing Managers' Index (PMI) for the 
  manufacturing sector, indicating the economic health and activity level of 
  the manufacturing industry.
--Services PMI : Purchasing Managers' Index (PMI) for the services sector, 
+- Services PMI : Purchasing Managers' Index (PMI) for the services sector, 
 indicating the economic health and activity level of the services industry.
--Consumer Confidence : A measure of consumer sentiment or confidence in the 
+- Consumer Confidence : A measure of consumer sentiment or confidence in the 
 economy, indicating consumers' optimism or pessimism about their financial
 situation and the overall state of the economy.
--Interest Rates : The prevailing interest rates set by the central bank or
+- Interest Rates : The prevailing interest rates set by the central bank or
 monetary authority, which influence borrowing costs and investment decisions.
--CPI YoY : Consumer Price Index (CPI) Year-over-Year change, indicating the
+- CPI YoY : Consumer Price Index (CPI) Year-over-Year change, indicating the
 percentage change in the average price level of a basket of consumer goods 
 and services over the previous year.
--Core CPI : Core Consumer Price Index (CPI), which excludes volatile items
+- Core CPI : Core Consumer Price Index (CPI), which excludes volatile items
 such as food and energy prices, providing a measure of underlying inflation
 trends.
--Unemployment Rate : The percentage of the labor force that is unemployed
+- Unemployment Rate : The percentage of the labor force that is unemployed
 and actively seeking employment, indicating the health of the labor market.
--GDP YoY : Gross Domestic Product (GDP) Year-over-Year change, indicating 
+- GDP YoY : Gross Domestic Product (GDP) Year-over-Year change, indicating 
 the percentage change in the total value of goods and services produced by
 a country's economy.
--Ticker: Ticker symbol for the corresponding financial asset or index.
+- Ticker: Ticker symbol for the corresponding financial asset or index.
 
 ## About The Dataset
 

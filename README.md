@@ -35,7 +35,7 @@ The datset is licensed and available on Kaggle for free. Access the data
 source through this link: [Data Source](https://www.kaggle.com/datasets/keneticenergy/economic-data-life-after-covid)
 
 
-##About The Work
+## About The Work
 
 Power BI was used to create visuals and design the dashboard, while the
 icons were downloaded separately then inserted as images. The work was
